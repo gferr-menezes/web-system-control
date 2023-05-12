@@ -5,7 +5,7 @@
 
         <div class="flex">
           <div>
-            <img src="src/assets/logo.png" style="height: 40px; width: 40px; margin: 10px;" />
+            <img src="~/assets/logo.png" style="height: 40px; width: 40px; margin: 10px;" />
             <span style="position: absolute; top: 20px;">LOGO</span>
           </div>
 
